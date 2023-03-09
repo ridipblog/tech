@@ -1,0 +1,19 @@
+.about_image
+{
+	border-radius: 20px;
+}
+.about-li
+{
+	border: none;
+	border-bottom: 2px solid yellow;
+	line-height: 50px;
+}
+.form_div
+{
+	border: 2ps solid black;
+}
+.img-fluid
+{
+	height: 265px;
+	width: 100%;
+}
